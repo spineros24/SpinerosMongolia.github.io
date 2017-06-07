@@ -1,2 +1,2 @@
-# SpinerosMongolia.github.io
+# http://SpinerosMongolia.github.io
 Momento internacional Mongolia
